@@ -1,0 +1,43 @@
+
+.scn {
+    margin-left: 20px;
+}
+.imgfirst {
+    width: 180px;
+    height: 220px;
+    margin-right: 25px;
+}
+.img3 {
+    width: 120px;
+    height: 80px;
+    margin: 10px;
+}
+time {
+    border: 1px solid black;
+}
+.but {
+    margin-left: 170px;
+}
+.butt {
+    margin-left: 320px;
+    border: 1px solid black;
+    background-color: darkgrey;
+    border-radius: 5px;
+    width: 100px;
+}
+.lastmore {
+    margin-right: 3px;
+    margin-bottom: 10px;
+}
+.data {
+    border: 2px solid darkgray;
+    background-color: rgb(188, 178, 178);
+    border-radius: 5px;
+}
+.top {
+    border-top: 2px solid rgb(244, 240, 240);   
+    padding-bottom: 20px;
+}
+.green {
+    color: green;
+}

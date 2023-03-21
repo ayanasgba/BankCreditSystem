@@ -1,0 +1,10 @@
+img {
+    margin-right: 30px;
+    width: 350px;
+    margin-bottom: 20px;
+}
+
+.img-block {
+    margin-right: -30px;
+    margin-bottom: 30px;
+}

@@ -1,0 +1,85 @@
+
+.ex3 {
+    display: flex;
+    justify-content: space-around;
+}
+.p1 {
+    font-size: 22px;
+}
+.ex31 {
+    padding-right: 100px;
+}
+.learn {
+    border: 1px solid white;
+    background-color: rgb(215, 211, 207);
+    color: rgb(9, 203, 141);
+    padding-left: 10px;
+    padding-right: 10px;
+    border-radius: 10px;
+    width: 170px;
+    height: 40px;
+    font-size: larger;
+}
+.cont3 {
+    display: flex;
+    justify-content: space-around;
+    /*border: 1px solid black; */
+}
+.menu2 {
+    border: 1px solid rgb(143, 142, 142);
+    border-radius: 10px;
+    padding: 1px 30px;
+    margin: 10px;
+    background-color: rgb(9, 203, 141);
+    color: white;
+}
+.btnin {
+    margin-left: 160px;
+    margin-bottom: 5px;
+    color: black;
+    border: 1px solid darkgray;
+    border-radius: 10px;
+    width: 76px;
+    height:22px;
+    background-color: rgb(13, 163, 115);
+}
+.cont4 {
+    display: flex;
+    justify-content: space-around;
+}
+button {
+    margin-bottom: 10px;
+}
+.bigdiv {
+    width: 65%;
+}
+.img {
+    width: 90px;
+    height: 60px;
+}
+.img2 {
+    width: 160px;
+    height: 120px;    
+}
+.col2 {
+    width: 160px;
+    height: 120px;  
+}
+.col_float { 
+    width: 600px;
+    padding-right: 20px;
+    margin-left: 10px;
+    margin-right: 10px;
+} 
+.green {
+    color: green;
+}
+.data {
+    border: 2px solid darkgray;
+    background-color: rgb(188, 178, 178);
+    border-radius: 5px;
+}
+.top {
+    border-top: 2px solid rgb(244, 240, 240);   
+    padding-bottom: 20px;
+}

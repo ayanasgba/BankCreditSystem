@@ -1,0 +1,60 @@
+
+.imgb {
+    border: 6px solid white;
+    width: 500px;
+    height: 260px;
+    margin-top: 15px;
+}
+.marginleft {
+    margin-right: 15px;
+}
+.bordertop {
+    border-top: 2px solid rgb(75, 72, 72);
+}
+.bordertb {
+    border-top: 2px solid rgb(172, 165, 165);
+    border-bottom: 2px solid rgb(172, 165, 165);
+    margin-bottom: 15px;
+    margin-top: 20px;
+}
+.marb {
+    margin-bottom: 15px;
+    margin-left: 450px;
+    border: 1px solid black;
+    background-color: darkgrey;
+    border-radius: 5px;
+    width: 100px;
+}
+.scn {
+    margin-left: 20px;
+}
+.img3 {
+    width: 120px;
+    height: 80px;
+    margin: 10px;
+}
+.data {
+    border: 2px solid darkgray;
+    background-color: rgb(188, 178, 178);
+    border-radius: 5px;
+}
+.top {
+    border-top: 2px solid rgb(244, 240, 240);   
+    padding-bottom: 20px;
+}
+.green {
+    color: green;
+}
+.butt {
+    margin-left: 320px;
+    border: 1px solid black;
+    background-color: darkgrey;
+    border-radius: 5px;
+    width: 100px;
+}
+.footer {
+    background-color: rgb(165, 158, 158);
+    height: 40px;
+    text-align: center;
+    padding-top: 1px;
+}

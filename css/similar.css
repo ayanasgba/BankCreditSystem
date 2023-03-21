@@ -1,0 +1,50 @@
+body {
+    background: rgb(185,185,185);
+background: linear-gradient(90deg, rgba(185,185,185,1) 0%, rgba(228,228,232,1) 51%, rgba(181,182,182,1) 100%);
+}
+
+.container {
+    width: 1120px;
+    margin: auto;
+}
+.header {
+    display: flex;
+    justify-content: space-between;
+}
+.btn {
+    margin-top: 30px;
+}
+.nav > ul {
+    list-style: none;
+    display: flex;
+    justify-content: space-around;
+    text-align: start;
+    border: 1px solid rgb(244, 220, 220);
+    background-color: rgb(255, 252, 252);
+    border-radius: 8px;
+}
+.nav > ul > li {
+    width: 20%;
+    padding: 10px 20px;
+    border-right: 1px solid black;
+    font-weight: bold;
+    color: rgb(77, 15, 222);
+}
+li > p:hover{
+    color: rgb(13, 13, 13);
+}
+
+.nav a {
+    text-decoration: none;
+}
+
+.content {
+    display: flex;
+    justify-content: space-around;
+}
+.footer {
+    background-color: rgb(165, 158, 158);
+    height: 40px;
+    text-align: center;
+    padding-top: 1px;
+}
